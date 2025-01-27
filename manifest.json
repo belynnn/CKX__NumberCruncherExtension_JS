@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Number Cruncher",
+  "description": "A browser extension to always have a number cruncher in hands ! Well... on your browser I mean !",
+  "version": "1.0",
+  "icons": {
+    "16": "./images/icon-16.png",
+    "32": "./images/icon-32.png",
+    "48": "./images/icon-48.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "./images/icon-16.png",
+      "32": "./images/icon-32.png",
+      "48": "./images/icon-48.png"
+    }
+  },
+  "permissions": []
+}
